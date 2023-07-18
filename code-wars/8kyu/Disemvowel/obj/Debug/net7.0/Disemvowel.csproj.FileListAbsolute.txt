@@ -1,0 +1,15 @@
+C:\Projetos\CodeWars\code-wars\8kyu\Disemvowel\bin\Debug\net7.0\Disemvowel.exe
+C:\Projetos\CodeWars\code-wars\8kyu\Disemvowel\bin\Debug\net7.0\Disemvowel.deps.json
+C:\Projetos\CodeWars\code-wars\8kyu\Disemvowel\bin\Debug\net7.0\Disemvowel.runtimeconfig.json
+C:\Projetos\CodeWars\code-wars\8kyu\Disemvowel\bin\Debug\net7.0\Disemvowel.dll
+C:\Projetos\CodeWars\code-wars\8kyu\Disemvowel\bin\Debug\net7.0\Disemvowel.pdb
+C:\Projetos\CodeWars\code-wars\8kyu\Disemvowel\obj\Debug\net7.0\Disemvowel.csproj.AssemblyReference.cache
+C:\Projetos\CodeWars\code-wars\8kyu\Disemvowel\obj\Debug\net7.0\Disemvowel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CodeWars\code-wars\8kyu\Disemvowel\obj\Debug\net7.0\Disemvowel.AssemblyInfoInputs.cache
+C:\Projetos\CodeWars\code-wars\8kyu\Disemvowel\obj\Debug\net7.0\Disemvowel.AssemblyInfo.cs
+C:\Projetos\CodeWars\code-wars\8kyu\Disemvowel\obj\Debug\net7.0\Disemvowel.csproj.CoreCompileInputs.cache
+C:\Projetos\CodeWars\code-wars\8kyu\Disemvowel\obj\Debug\net7.0\Disemvowel.dll
+C:\Projetos\CodeWars\code-wars\8kyu\Disemvowel\obj\Debug\net7.0\refint\Disemvowel.dll
+C:\Projetos\CodeWars\code-wars\8kyu\Disemvowel\obj\Debug\net7.0\Disemvowel.pdb
+C:\Projetos\CodeWars\code-wars\8kyu\Disemvowel\obj\Debug\net7.0\Disemvowel.genruntimeconfig.cache
+C:\Projetos\CodeWars\code-wars\8kyu\Disemvowel\obj\Debug\net7.0\ref\Disemvowel.dll

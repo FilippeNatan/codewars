@@ -1,0 +1,15 @@
+C:\Projetos\CodeWars\code-wars\7kyu\ComplementaryDNA\bin\Debug\net7.0\ComplementaryDNA.exe
+C:\Projetos\CodeWars\code-wars\7kyu\ComplementaryDNA\bin\Debug\net7.0\ComplementaryDNA.deps.json
+C:\Projetos\CodeWars\code-wars\7kyu\ComplementaryDNA\bin\Debug\net7.0\ComplementaryDNA.runtimeconfig.json
+C:\Projetos\CodeWars\code-wars\7kyu\ComplementaryDNA\bin\Debug\net7.0\ComplementaryDNA.dll
+C:\Projetos\CodeWars\code-wars\7kyu\ComplementaryDNA\bin\Debug\net7.0\ComplementaryDNA.pdb
+C:\Projetos\CodeWars\code-wars\7kyu\ComplementaryDNA\obj\Debug\net7.0\ComplementaryDNA.csproj.AssemblyReference.cache
+C:\Projetos\CodeWars\code-wars\7kyu\ComplementaryDNA\obj\Debug\net7.0\ComplementaryDNA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CodeWars\code-wars\7kyu\ComplementaryDNA\obj\Debug\net7.0\ComplementaryDNA.AssemblyInfoInputs.cache
+C:\Projetos\CodeWars\code-wars\7kyu\ComplementaryDNA\obj\Debug\net7.0\ComplementaryDNA.AssemblyInfo.cs
+C:\Projetos\CodeWars\code-wars\7kyu\ComplementaryDNA\obj\Debug\net7.0\ComplementaryDNA.csproj.CoreCompileInputs.cache
+C:\Projetos\CodeWars\code-wars\7kyu\ComplementaryDNA\obj\Debug\net7.0\ComplementaryDNA.dll
+C:\Projetos\CodeWars\code-wars\7kyu\ComplementaryDNA\obj\Debug\net7.0\refint\ComplementaryDNA.dll
+C:\Projetos\CodeWars\code-wars\7kyu\ComplementaryDNA\obj\Debug\net7.0\ComplementaryDNA.pdb
+C:\Projetos\CodeWars\code-wars\7kyu\ComplementaryDNA\obj\Debug\net7.0\ComplementaryDNA.genruntimeconfig.cache
+C:\Projetos\CodeWars\code-wars\7kyu\ComplementaryDNA\obj\Debug\net7.0\ref\ComplementaryDNA.dll

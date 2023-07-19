@@ -21,6 +21,8 @@ public class DnaStrand
                     case 'G':
                         dnaFinal += 'C';
                     break;
+                    default:
+                        throw new ArgumentException();
                 }
             }
             return dnaFinal;

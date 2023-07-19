@@ -1,0 +1,15 @@
+C:\Projetos\CodeWars\code-wars\8kyu\ReplaceAlphabetPosition\bin\Debug\net7.0\ReplaceAlphabetPosition.exe
+C:\Projetos\CodeWars\code-wars\8kyu\ReplaceAlphabetPosition\bin\Debug\net7.0\ReplaceAlphabetPosition.deps.json
+C:\Projetos\CodeWars\code-wars\8kyu\ReplaceAlphabetPosition\bin\Debug\net7.0\ReplaceAlphabetPosition.runtimeconfig.json
+C:\Projetos\CodeWars\code-wars\8kyu\ReplaceAlphabetPosition\bin\Debug\net7.0\ReplaceAlphabetPosition.dll
+C:\Projetos\CodeWars\code-wars\8kyu\ReplaceAlphabetPosition\bin\Debug\net7.0\ReplaceAlphabetPosition.pdb
+C:\Projetos\CodeWars\code-wars\8kyu\ReplaceAlphabetPosition\obj\Debug\net7.0\ReplaceAlphabetPosition.csproj.AssemblyReference.cache
+C:\Projetos\CodeWars\code-wars\8kyu\ReplaceAlphabetPosition\obj\Debug\net7.0\ReplaceAlphabetPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CodeWars\code-wars\8kyu\ReplaceAlphabetPosition\obj\Debug\net7.0\ReplaceAlphabetPosition.AssemblyInfoInputs.cache
+C:\Projetos\CodeWars\code-wars\8kyu\ReplaceAlphabetPosition\obj\Debug\net7.0\ReplaceAlphabetPosition.AssemblyInfo.cs
+C:\Projetos\CodeWars\code-wars\8kyu\ReplaceAlphabetPosition\obj\Debug\net7.0\ReplaceAlphabetPosition.csproj.CoreCompileInputs.cache
+C:\Projetos\CodeWars\code-wars\8kyu\ReplaceAlphabetPosition\obj\Debug\net7.0\ReplaceAlphabetPosition.dll
+C:\Projetos\CodeWars\code-wars\8kyu\ReplaceAlphabetPosition\obj\Debug\net7.0\refint\ReplaceAlphabetPosition.dll
+C:\Projetos\CodeWars\code-wars\8kyu\ReplaceAlphabetPosition\obj\Debug\net7.0\ReplaceAlphabetPosition.pdb
+C:\Projetos\CodeWars\code-wars\8kyu\ReplaceAlphabetPosition\obj\Debug\net7.0\ReplaceAlphabetPosition.genruntimeconfig.cache
+C:\Projetos\CodeWars\code-wars\8kyu\ReplaceAlphabetPosition\obj\Debug\net7.0\ref\ReplaceAlphabetPosition.dll

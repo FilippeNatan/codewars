@@ -1,0 +1,15 @@
+C:\Projetos\CodeWars\code-wars\7kyu\Rot13\bin\Debug\net7.0\Rot13.exe
+C:\Projetos\CodeWars\code-wars\7kyu\Rot13\bin\Debug\net7.0\Rot13.deps.json
+C:\Projetos\CodeWars\code-wars\7kyu\Rot13\bin\Debug\net7.0\Rot13.runtimeconfig.json
+C:\Projetos\CodeWars\code-wars\7kyu\Rot13\bin\Debug\net7.0\Rot13.dll
+C:\Projetos\CodeWars\code-wars\7kyu\Rot13\bin\Debug\net7.0\Rot13.pdb
+C:\Projetos\CodeWars\code-wars\7kyu\Rot13\obj\Debug\net7.0\Rot13.csproj.AssemblyReference.cache
+C:\Projetos\CodeWars\code-wars\7kyu\Rot13\obj\Debug\net7.0\Rot13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CodeWars\code-wars\7kyu\Rot13\obj\Debug\net7.0\Rot13.AssemblyInfoInputs.cache
+C:\Projetos\CodeWars\code-wars\7kyu\Rot13\obj\Debug\net7.0\Rot13.AssemblyInfo.cs
+C:\Projetos\CodeWars\code-wars\7kyu\Rot13\obj\Debug\net7.0\Rot13.csproj.CoreCompileInputs.cache
+C:\Projetos\CodeWars\code-wars\7kyu\Rot13\obj\Debug\net7.0\Rot13.dll
+C:\Projetos\CodeWars\code-wars\7kyu\Rot13\obj\Debug\net7.0\refint\Rot13.dll
+C:\Projetos\CodeWars\code-wars\7kyu\Rot13\obj\Debug\net7.0\Rot13.pdb
+C:\Projetos\CodeWars\code-wars\7kyu\Rot13\obj\Debug\net7.0\Rot13.genruntimeconfig.cache
+C:\Projetos\CodeWars\code-wars\7kyu\Rot13\obj\Debug\net7.0\ref\Rot13.dll

@@ -1,0 +1,15 @@
+C:\Projetos\CodeWars\code-wars\7kyu\HumanReadableTime\bin\Debug\net7.0\HumanReadableTime.exe
+C:\Projetos\CodeWars\code-wars\7kyu\HumanReadableTime\bin\Debug\net7.0\HumanReadableTime.deps.json
+C:\Projetos\CodeWars\code-wars\7kyu\HumanReadableTime\bin\Debug\net7.0\HumanReadableTime.runtimeconfig.json
+C:\Projetos\CodeWars\code-wars\7kyu\HumanReadableTime\bin\Debug\net7.0\HumanReadableTime.dll
+C:\Projetos\CodeWars\code-wars\7kyu\HumanReadableTime\bin\Debug\net7.0\HumanReadableTime.pdb
+C:\Projetos\CodeWars\code-wars\7kyu\HumanReadableTime\obj\Debug\net7.0\HumanReadableTime.csproj.AssemblyReference.cache
+C:\Projetos\CodeWars\code-wars\7kyu\HumanReadableTime\obj\Debug\net7.0\HumanReadableTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CodeWars\code-wars\7kyu\HumanReadableTime\obj\Debug\net7.0\HumanReadableTime.AssemblyInfoInputs.cache
+C:\Projetos\CodeWars\code-wars\7kyu\HumanReadableTime\obj\Debug\net7.0\HumanReadableTime.AssemblyInfo.cs
+C:\Projetos\CodeWars\code-wars\7kyu\HumanReadableTime\obj\Debug\net7.0\HumanReadableTime.csproj.CoreCompileInputs.cache
+C:\Projetos\CodeWars\code-wars\7kyu\HumanReadableTime\obj\Debug\net7.0\HumanReadableTime.dll
+C:\Projetos\CodeWars\code-wars\7kyu\HumanReadableTime\obj\Debug\net7.0\refint\HumanReadableTime.dll
+C:\Projetos\CodeWars\code-wars\7kyu\HumanReadableTime\obj\Debug\net7.0\HumanReadableTime.pdb
+C:\Projetos\CodeWars\code-wars\7kyu\HumanReadableTime\obj\Debug\net7.0\HumanReadableTime.genruntimeconfig.cache
+C:\Projetos\CodeWars\code-wars\7kyu\HumanReadableTime\obj\Debug\net7.0\ref\HumanReadableTime.dll

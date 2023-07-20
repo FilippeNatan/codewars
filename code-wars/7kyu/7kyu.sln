@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplementaryDNA", "ComplementaryDNA\ComplementaryDNA.csproj", "{FBDE01E3-22AE-4D07-8566-07050233E3FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumanReadableTime", "HumanReadableTime\HumanReadableTime.csproj", "{5789777E-698E-46D3-99A9-17C64B2A45D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{FBDE01E3-22AE-4D07-8566-07050233E3FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBDE01E3-22AE-4D07-8566-07050233E3FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBDE01E3-22AE-4D07-8566-07050233E3FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5789777E-698E-46D3-99A9-17C64B2A45D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5789777E-698E-46D3-99A9-17C64B2A45D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5789777E-698E-46D3-99A9-17C64B2A45D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5789777E-698E-46D3-99A9-17C64B2A45D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

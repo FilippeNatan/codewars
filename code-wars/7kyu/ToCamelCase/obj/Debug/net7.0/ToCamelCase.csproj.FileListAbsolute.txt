@@ -1,0 +1,15 @@
+C:\Projetos\CodeWars\code-wars\7kyu\ToCamelCase\bin\Debug\net7.0\ToCamelCase.exe
+C:\Projetos\CodeWars\code-wars\7kyu\ToCamelCase\bin\Debug\net7.0\ToCamelCase.deps.json
+C:\Projetos\CodeWars\code-wars\7kyu\ToCamelCase\bin\Debug\net7.0\ToCamelCase.runtimeconfig.json
+C:\Projetos\CodeWars\code-wars\7kyu\ToCamelCase\bin\Debug\net7.0\ToCamelCase.dll
+C:\Projetos\CodeWars\code-wars\7kyu\ToCamelCase\bin\Debug\net7.0\ToCamelCase.pdb
+C:\Projetos\CodeWars\code-wars\7kyu\ToCamelCase\obj\Debug\net7.0\ToCamelCase.csproj.AssemblyReference.cache
+C:\Projetos\CodeWars\code-wars\7kyu\ToCamelCase\obj\Debug\net7.0\ToCamelCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CodeWars\code-wars\7kyu\ToCamelCase\obj\Debug\net7.0\ToCamelCase.AssemblyInfoInputs.cache
+C:\Projetos\CodeWars\code-wars\7kyu\ToCamelCase\obj\Debug\net7.0\ToCamelCase.AssemblyInfo.cs
+C:\Projetos\CodeWars\code-wars\7kyu\ToCamelCase\obj\Debug\net7.0\ToCamelCase.csproj.CoreCompileInputs.cache
+C:\Projetos\CodeWars\code-wars\7kyu\ToCamelCase\obj\Debug\net7.0\ToCamelCase.dll
+C:\Projetos\CodeWars\code-wars\7kyu\ToCamelCase\obj\Debug\net7.0\refint\ToCamelCase.dll
+C:\Projetos\CodeWars\code-wars\7kyu\ToCamelCase\obj\Debug\net7.0\ToCamelCase.pdb
+C:\Projetos\CodeWars\code-wars\7kyu\ToCamelCase\obj\Debug\net7.0\ToCamelCase.genruntimeconfig.cache
+C:\Projetos\CodeWars\code-wars\7kyu\ToCamelCase\obj\Debug\net7.0\ref\ToCamelCase.dll

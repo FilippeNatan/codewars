@@ -1,0 +1,15 @@
+C:\Projetos\CodeWars\code-wars\7kyu\WeightForWeight\bin\Debug\net7.0\WeightForWeight.exe
+C:\Projetos\CodeWars\code-wars\7kyu\WeightForWeight\bin\Debug\net7.0\WeightForWeight.deps.json
+C:\Projetos\CodeWars\code-wars\7kyu\WeightForWeight\bin\Debug\net7.0\WeightForWeight.runtimeconfig.json
+C:\Projetos\CodeWars\code-wars\7kyu\WeightForWeight\bin\Debug\net7.0\WeightForWeight.dll
+C:\Projetos\CodeWars\code-wars\7kyu\WeightForWeight\bin\Debug\net7.0\WeightForWeight.pdb
+C:\Projetos\CodeWars\code-wars\7kyu\WeightForWeight\obj\Debug\net7.0\WeightForWeight.csproj.AssemblyReference.cache
+C:\Projetos\CodeWars\code-wars\7kyu\WeightForWeight\obj\Debug\net7.0\WeightForWeight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CodeWars\code-wars\7kyu\WeightForWeight\obj\Debug\net7.0\WeightForWeight.AssemblyInfoInputs.cache
+C:\Projetos\CodeWars\code-wars\7kyu\WeightForWeight\obj\Debug\net7.0\WeightForWeight.AssemblyInfo.cs
+C:\Projetos\CodeWars\code-wars\7kyu\WeightForWeight\obj\Debug\net7.0\WeightForWeight.csproj.CoreCompileInputs.cache
+C:\Projetos\CodeWars\code-wars\7kyu\WeightForWeight\obj\Debug\net7.0\WeightForWeight.dll
+C:\Projetos\CodeWars\code-wars\7kyu\WeightForWeight\obj\Debug\net7.0\refint\WeightForWeight.dll
+C:\Projetos\CodeWars\code-wars\7kyu\WeightForWeight\obj\Debug\net7.0\WeightForWeight.pdb
+C:\Projetos\CodeWars\code-wars\7kyu\WeightForWeight\obj\Debug\net7.0\WeightForWeight.genruntimeconfig.cache
+C:\Projetos\CodeWars\code-wars\7kyu\WeightForWeight\obj\Debug\net7.0\ref\WeightForWeight.dll

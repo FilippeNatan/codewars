@@ -1,0 +1,15 @@
+C:\Projetos\CodeWars\code-wars\6kyu\DetectPangram\bin\Debug\net7.0\DetectPangram.exe
+C:\Projetos\CodeWars\code-wars\6kyu\DetectPangram\bin\Debug\net7.0\DetectPangram.deps.json
+C:\Projetos\CodeWars\code-wars\6kyu\DetectPangram\bin\Debug\net7.0\DetectPangram.runtimeconfig.json
+C:\Projetos\CodeWars\code-wars\6kyu\DetectPangram\bin\Debug\net7.0\DetectPangram.dll
+C:\Projetos\CodeWars\code-wars\6kyu\DetectPangram\bin\Debug\net7.0\DetectPangram.pdb
+C:\Projetos\CodeWars\code-wars\6kyu\DetectPangram\obj\Debug\net7.0\DetectPangram.csproj.AssemblyReference.cache
+C:\Projetos\CodeWars\code-wars\6kyu\DetectPangram\obj\Debug\net7.0\DetectPangram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CodeWars\code-wars\6kyu\DetectPangram\obj\Debug\net7.0\DetectPangram.AssemblyInfoInputs.cache
+C:\Projetos\CodeWars\code-wars\6kyu\DetectPangram\obj\Debug\net7.0\DetectPangram.AssemblyInfo.cs
+C:\Projetos\CodeWars\code-wars\6kyu\DetectPangram\obj\Debug\net7.0\DetectPangram.csproj.CoreCompileInputs.cache
+C:\Projetos\CodeWars\code-wars\6kyu\DetectPangram\obj\Debug\net7.0\DetectPangram.dll
+C:\Projetos\CodeWars\code-wars\6kyu\DetectPangram\obj\Debug\net7.0\refint\DetectPangram.dll
+C:\Projetos\CodeWars\code-wars\6kyu\DetectPangram\obj\Debug\net7.0\DetectPangram.pdb
+C:\Projetos\CodeWars\code-wars\6kyu\DetectPangram\obj\Debug\net7.0\DetectPangram.genruntimeconfig.cache
+C:\Projetos\CodeWars\code-wars\6kyu\DetectPangram\obj\Debug\net7.0\ref\DetectPangram.dll
